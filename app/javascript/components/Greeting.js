@@ -17,9 +17,9 @@ const Greeting = () => {
   }, []);
 
   return (
-    <div className="bg-white shadow-lg p-6 rounded-lg">
-      <h2 className="text-xl font-semibold mb-2">Greetings:</h2>
-      <p className="text-gray-600">{greeting}</p>
+    <div>
+      <h2>Greetings:</h2>
+      <p>{greeting}</p>
     </div>
 
   );
