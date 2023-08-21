@@ -109,7 +109,7 @@ To run the project tests, execute the following command:
 
 ## 👥 Author / Owner <a name="authors"></a>
 
-👤 **Nabeel Ahmed**
+👤 **Atif Zada**
 - GitHub: [@Atif Zada](https://github.com/Atifzada)
 - LinkedIn: [@Atif Zada](https://www.linkedin.com/in/atif-zada/)
 
